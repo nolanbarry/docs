@@ -1,0 +1,15 @@
+The user has provided the following prompt "${user-input}". They would like us to 
+provide a link to the official documentation for their prompt. Please provide a string 
+containing a prompt you would use to search the web for the relevant documentation. 
+Remember - we are looking only for the OFFICIAL documentation and not any third-party
+guides, tutorials, or other resources. Using your response, I'll search the web on your
+behalf. I will provide you the page of results I find, and we'll go from there.
+
+To reiterate: your response now should be nothing but a single string to search the web with.
+Do not include any additional text that you don't want want to be included in the search,
+including context on how to perform a search or what the string you are providing is for.
+
+You may include special search operators, such as the "site:" operator, to narrow down the 
+search if you are already confident of the domain the documentation is hosted on. Please
+only use this operator if you are confident. You will be provided with opportunities to
+narrow down your search should your first prompt be insufficient - better safe than sorry.

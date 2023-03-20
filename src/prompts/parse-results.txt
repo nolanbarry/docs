@@ -1,0 +1,17 @@
+I've search the web with your prompt. Here are the results:
+
+${web-results}
+
+Note that each result is labeled with a number. If any of these web results are what we're looking for,
+please respond with the following: "CHOOSE {NUMBER}", where number is the numbered identifier of that result.
+For example, if you want to choose the first result, you would respond with "CHOOSE 1". Include nothing else
+in your response.
+
+If none of these results are to your satisfaction, and you'd like to try again, please respond with "SEARCH {NEW PROMPT}", 
+where {NEW PROMPT} is the string to search the web with. Include nothing else in your response.
+
+If none of these results are to your satisfaction, and you do not have any other prompts, please respond with "GIVE UP".
+
+Be picky! If a webpage isn't the absolute best, do NOT choose it. Instead provide a new prompt that avoids the red herrings.
+
+Respond now:
